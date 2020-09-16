@@ -14,6 +14,7 @@
 	out.println("<h1>"+"str="+str+"<h1>"); // 웹에 출력 = document.write("str=>"+str)
 %>
 <hr>
-str의 값 출력=<%=str%>
+str의 값 출력=<%=str%> <br>
+수식계산:<%=(3+5)%>
 </body>
 </html>
